@@ -1,2 +1,2 @@
 # SFDCACNPOC
-poc for sfdc jenkins intigration
+Poc repository for sfdc jenkins intigration
